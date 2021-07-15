@@ -1,0 +1,33 @@
+@font-face {src: url("High\ Tide\ -\ Demo.ttf"); 
+    font-family: "nok"; }
+    
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+    
+    body{
+      background:#23272A;
+    }
+    
+    img{
+      vertical-align: bottom;
+      transition: 0.4s;
+    }
+
+    img:hover{
+       transform: scale(1.2);
+    }
+    
+    p{
+      font-family: "nok";
+      color: white;
+      font-size: 56px;
+      text-align:center;
+      margin-left: -30px;
+    }
+
+    h1{
+        font-family: 'Anton', sans-serif;
+        color: white;
+        text-align: center;
+        font-size: 56px;
+    }
+
